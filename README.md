@@ -1,4 +1,4 @@
 searchengine
 ============
 
-implementation a small search engine
+implementation of a small search engine in python
